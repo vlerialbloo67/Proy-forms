@@ -1,0 +1,49 @@
+body{
+  background-image: url(../inagenes/fondo1.jpeg)
+}
+header{
+  background-color: azure
+  padding: 5px;
+}
+footer{
+  background-color: bisque; 
+  padding: 5px;
+}
+nav{
+  background-color: yellow:
+  padding: 5px;
+  text-align: left;
+}
+img{
+  width:50px;
+  height: 50px;
+  
+}
+.contenido{
+  background-color: violet;
+  padding: 5px;
+  margin: 2px;
+  display: flex;
+}
+section{
+  background-color: rgb(249,193,246,0.487);
+  padding: 5px;
+  margin: 5px;
+  width: 50%;
+  height: 200px;
+  
+}
+*{
+  text-align: center;
+  margin: 10px;
+  
+}
+input{
+  background-color: yellowgreen;
+  width: 80%;
+  height: 40px;
+}
+label{
+  color: red;
+}
+
